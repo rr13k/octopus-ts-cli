@@ -1,6 +1,6 @@
 import  octopus  from 'jd-octopus'
 
-describe("滑动屏幕", function () {
+describe("演示示例", function () {
   var c = octopus("10.222.50.39:8080")
   var {device,info,img,text,point,swipe,sleep} = octopus()
   let uuids = ["7e:03:ab:92:73:13"]
