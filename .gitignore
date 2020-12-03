@@ -27,6 +27,7 @@ pnpm-debug.log*
 /dist_electron
 */databases-incognito
 /mochawesome-report
+/report
 */lib
 
 *.png

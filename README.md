@@ -21,3 +21,9 @@ octopus-server
 ```shell
     npm run report 
 ```
+
+## 运行单个测试用例
+
+```shell
+    npx mocha --grep 用例describe名称
+```
