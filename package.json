@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "test:report": "mocha --reporter mochawesome",
+    "report": "mocha --reporter mochawesome",
     "push": "npm publish"
   },
   "mocha": {
